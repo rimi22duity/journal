@@ -1,0 +1,10 @@
+.heading {
+    background-color: rgb(26, 25, 25);
+    color: white;
+    padding-left: 30px;
+}
+h1 {
+    font-size: 70px;
+    font-family: Georgia;
+    font-weight: 700;
+}
